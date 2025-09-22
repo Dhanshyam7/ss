@@ -1,0 +1,7 @@
+1000    **      START   1000
+1000    **      LDA     FIVE
+1003    ALPHA   RESW    1
+1006    FIVE    WORD    5
+1009    CHARZ   BYTE    C'Z'
+100A    C1      RESB    1
+100B    **      END     **
